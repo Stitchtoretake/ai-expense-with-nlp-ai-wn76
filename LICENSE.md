@@ -1,4 +1,4 @@
-# 
+# Automatique AI Expense Tracker with NLP plugins. Avec IA explicable et scalabilité de l'IA — optimisé pour des performances maximales.
 
 
 
